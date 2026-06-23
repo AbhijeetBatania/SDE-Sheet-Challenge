@@ -4,9 +4,9 @@
   <img src="https://img.shields.io/badge/Challenge-Striver%2045%20Days-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Platform-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge" />
 </p>
-
 ---
 
 ## 📌 About
@@ -47,9 +47,9 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Problem | Question | Solution |
 |---------|----------|----------|
-| Set Matrix Zeroes | https://leetcode.com/problems/set-matrix-zeroes/ | Coming Soon |
-| Pascal's Triangle | https://leetcode.com/problems/pascals-triangle/ | Coming Soon |
-| Next Permutation | https://leetcode.com/problems/next-permutation/ | Coming Soon |
+| Set Matrix Zeroes | [Question](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./Days/Day01/SetMatrixZeroes.cpp) |
+| Pascal's Triangle | [Question](https://leetcode.com/problems/pascals-triangle/) | [Solution](./Days/Day01/PascalsTriangle.cpp) |
+| Next Permutation | [Question](https://leetcode.com/problems/next-permutation/) | [Solution](./Days/Day01/NextPermutation.cpp) |
 
 </details>
 
