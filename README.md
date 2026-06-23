@@ -20,7 +20,7 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 # 🎯 Challenge Goals
 
 - ✅ Complete Striver's 45 Days SDE Sheet
-- ✅ Write clean and optimized C++ solutions
+- ✅ Write clean and optimized solutions
 - ✅ Learn multiple approaches whenever possible
 - ✅ Maintain consistency by solving problems daily
 - ✅ Improve interview preparation
@@ -66,34 +66,6 @@ Problems Solved
 
 ██░░░░░░░░░░░░░░░░░ 3 Problems
 ```
-
----
-
-# 📂 Repository Structure
-
-```
-SDE-Sheet-Challenge
-│
-├── README.md
-│
-├── Day-01-Arrays-I
-│   ├── SetMatrixZeroes.cpp
-│   ├── PascalsTriangle.cpp
-│   └── NextPermutation.cpp
-│
-├── Day-02-Arrays-II
-├── Day-03-Arrays-III
-│
-└── ...
-```
-
----
-
-## 🔥 Progress Log
-
-| Day | Topic | Problems |
-|-----|-------|----------|
-| ✅ Day 1 | Arrays I | 3 |
 
 ---
 
