@@ -1,4 +1,4 @@
-# 🚀 Striver's 45 Days SDE Sheet Challenge
+<h1 align="center">Striver's 45 Days SDE Sheet Challenge</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Challenge-Striver%2045%20Days-blue?style=for-the-badge" />
@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Platform-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge" />
 </p>
----
+
 
 ## 📌 About
 
@@ -31,8 +31,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **1 / 45** |
-| 💻 Problems Solved | **3** |
+| 📅 Days Completed | **2 / 45** |
+| 💻 Problems Solved | **6 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -41,7 +41,7 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 # 📅 Daily Progress
 
 <details open>
-<summary><strong>Week 1</strong></summary>
+<summary><strong>Week 1 (Days 1 to 7)</strong></summary>
 
 ### ✅ Day 1 – Arrays I
 
@@ -51,20 +51,29 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Pascal's Triangle | [Question](https://leetcode.com/problems/pascals-triangle/) | [Solution](./Days/Day01/PascalsTriangle.cpp) |
 | Next Permutation | [Question](https://leetcode.com/problems/next-permutation/) | [Solution](./Days/Day01/NextPermutation.cpp) |
 
+
+### ✅ Day 2 – Arrays I
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Maximum Subarray | [Question](https://leetcode.com/problems/maximum-subarray/) | [Solution](./Days/Day02/MaximumSubarray.cpp) |
+| Sort Colors | [Question](https://leetcode.com/problems/sort-colors/) | [Solution](./Days/Day02/SortColors.cpp) |
+| Best Time to Buy and Sell Stock | [Question](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./Days/Day02/BestTimeToBuyAndSellStock.cpp) |
+
 </details>
 
 ---
 
 # 📈 Progress
 
-```
+```text
 Days Completed
 
-█░░░░░░░░░░░░░░░░░░ 1/45
+█░░░░░░░░░░░░░░░░░░ 2 / 45
 
 Problems Solved
 
-██░░░░░░░░░░░░░░░░░ 3 Problems
+█░░░░░░░░░░░░░░░░░░ 6 / 191
 ```
 
 ---
