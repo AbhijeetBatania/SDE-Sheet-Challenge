@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge" />
 </p>
 
+---
 
 ## 📌 About
 
@@ -31,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **2 / 45** |
-| 💻 Problems Solved | **6 / 191** |
+| 📅 Days Completed | **3 / 45** |
+| 💻 Problems Solved | **9 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -60,6 +61,15 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Sort Colors | [Question](https://leetcode.com/problems/sort-colors/) | [Solution](./Days/Day02/SortColors.cpp) |
 | Best Time to Buy and Sell Stock | [Question](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./Days/Day02/BestTimeToBuyAndSellStock.cpp) |
 
+
+### ✅ Day 3 – Arrays II
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Rotate Image | [Question](https://leetcode.com/problems/rotate-image/) | [Solution](./Days/Day03/RotateImage.cpp) |
+| Merge Intervals | [Question](https://leetcode.com/problems/merge-intervals/) | [Solution](./Days/Day03/MergeIntervals.cpp) |
+| Merge Sorted Array | [Question](https://leetcode.com/problems/merge-sorted-array/) | [Solution](./Days/Day03/MergeSortedArray.cpp) |
+
 </details>
 
 ---
@@ -69,11 +79,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-█░░░░░░░░░░░░░░░░░░ 2 / 45
+█░░░░░░░░░░░░░░░░░░ 3 / 45
 
 Problems Solved
 
-█░░░░░░░░░░░░░░░░░░ 6 / 191
+█░░░░░░░░░░░░░░░░░░ 9 / 191
 ```
 
 ---
