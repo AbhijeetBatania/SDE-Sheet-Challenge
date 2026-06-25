@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **3 / 45** |
-| 💻 Problems Solved | **9 / 191** |
+| 📅 Days Completed | **4 / 45** |
+| 💻 Problems Solved | **12 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -70,6 +70,15 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Merge Intervals | [Question](https://leetcode.com/problems/merge-intervals/) | [Solution](./Days/Day03/MergeIntervals.cpp) |
 | Merge Sorted Array | [Question](https://leetcode.com/problems/merge-sorted-array/) | [Solution](./Days/Day03/MergeSortedArray.cpp) |
 
+
+### ✅ Day 4 – Arrays II
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Find the Duplicate Number | [Question](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./Days/Day04/FindDuplicateNumber.cpp) |
+| Find Missing and Repeating | [Question](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | [Solution](./Days/Day04/FindMissingAndRepeating.cpp) |
+| Count Inversions | [Question](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution](./Days/Day04/CountInversions.cpp) |
+
 </details>
 
 ---
@@ -79,11 +88,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-█░░░░░░░░░░░░░░░░░░ 3 / 45
+█░░░░░░░░░░░░░░░░░░ 4 / 45
 
 Problems Solved
 
-█░░░░░░░░░░░░░░░░░░ 9 / 191
+█░░░░░░░░░░░░░░░░░░ 12 / 191
 ```
 
 ---
