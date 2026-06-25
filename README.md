@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **4 / 45** |
-| 💻 Problems Solved | **12 / 191** |
+| 📅 Days Completed | **5 / 45** |
+| 💻 Problems Solved | **15 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -79,6 +79,15 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Find Missing and Repeating | [Question](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | [Solution](./Days/Day04/FindMissingAndRepeating.cpp) |
 | Count Inversions | [Question](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution](./Days/Day04/CountInversions.cpp) |
 
+
+### ✅ Day 5 – Arrays III
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Search a 2D Matrix | [Question](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./Days/Day05/Search2DMatrix.cpp) |
+| Pow(x, n) | [Question](https://leetcode.com/problems/powx-n/) | [Solution](./Days/Day05/PowXN.cpp) |
+| Majority Element | [Question](https://leetcode.com/problems/majority-element/) | [Solution](./Days/Day05/MajorityElement.cpp) |
+
 </details>
 
 ---
@@ -88,11 +97,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-█░░░░░░░░░░░░░░░░░░ 4 / 45
+█░░░░░░░░░░░░░░░░░░ 5 / 45
 
 Problems Solved
 
-█░░░░░░░░░░░░░░░░░░ 12 / 191
+█░░░░░░░░░░░░░░░░░░ 15 / 191
 ```
 
 ---
