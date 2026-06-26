@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **5 / 45** |
-| 💻 Problems Solved | **15 / 191** |
+| 📅 Days Completed | **6 / 45** |
+| 💻 Problems Solved | **18 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -88,6 +88,15 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Pow(x, n) | [Question](https://leetcode.com/problems/powx-n/) | [Solution](./Days/Day05/PowXN.cpp) |
 | Majority Element | [Question](https://leetcode.com/problems/majority-element/) | [Solution](./Days/Day05/MajorityElement.cpp) |
 
+
+### ✅ Day 6 – Arrays III
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Majority Element II | [Question](https://leetcode.com/problems/majority-element-ii/) | [Solution](./Days/Day06/MajorityElementII.cpp) |
+| Unique Paths | [Question](https://leetcode.com/problems/unique-paths/) | [Solution](./Days/Day06/UniquePaths.cpp) |
+| Reverse Pairs | [Question](https://leetcode.com/problems/reverse-pairs/) | [Solution](./Days/Day06/ReversePairs.cpp) |
+
 </details>
 
 ---
@@ -97,13 +106,13 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-█░░░░░░░░░░░░░░░░░░ 5 / 45
+█░░░░░░░░░░░░░░░░░░ 6 / 45
 
 Problems Solved
 
-█░░░░░░░░░░░░░░░░░░ 15 / 191
+█░░░░░░░░░░░░░░░░░░ 18 / 191
 ```
 
 ---
 
-### Happy Coding 🚀
+### Follow my journey...
