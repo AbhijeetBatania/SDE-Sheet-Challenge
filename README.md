@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **6 / 45** |
-| 💻 Problems Solved | **18 / 191** |
+| 📅 Days Completed | **7 / 45** |
+| 💻 Problems Solved | **21 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -97,6 +97,16 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Unique Paths | [Question](https://leetcode.com/problems/unique-paths/) | [Solution](./Days/Day06/UniquePaths.cpp) |
 | Reverse Pairs | [Question](https://leetcode.com/problems/reverse-pairs/) | [Solution](./Days/Day06/ReversePairs.cpp) |
 
+
+### ✅ Day 7 – Arrays IV
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Two Sum | [Question](https://leetcode.com/problems/two-sum/) | [Solution](./Days/Day07/TwoSum.cpp) |
+| 3Sum *(Extra)* | [Question](https://leetcode.com/problems/3sum/) | [Solution](./Days/Day07/ThreeSum.cpp) |
+| 4Sum | [Question](https://leetcode.com/problems/4sum/) | [Solution](./Days/Day07/FourSum.cpp) |
+| Longest Consecutive Sequence | [Question](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](./Days/Day07/LongestConsecutiveSequence.cpp) |
+
 </details>
 
 ---
@@ -106,11 +116,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-█░░░░░░░░░░░░░░░░░░ 6 / 45
+███░░░░░░░░░░░░░░░░ 7/45
 
 Problems Solved
 
-█░░░░░░░░░░░░░░░░░░ 18 / 191
+██░░░░░░░░░░░░░░░░░ 21/191
 ```
 
 ---
