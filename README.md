@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **7 / 45** |
-| 💻 Problems Solved | **21 / 191** |
+| 📅 Days Completed | **8 / 45** |
+| 💻 Problems Solved | **24 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -109,6 +109,19 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 </details>
 
+<details open>
+<summary><strong>Week 2 (Days 8 to 14)</strong></summary>
+
+### ✅ Day 8 – Arrays IV
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Longest Subarray with Sum K | [Question](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | [Solution](./Days/Day08/LongestSubarrayWithSumK.cpp) |
+| Count Subarrays with Given XOR | [Question](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) | [Solution](./Days/Day08/CountSubarraysWithXOR.cpp) |
+| Longest Substring Without Repeating Characters | [Question](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./Days/Day08/LongestSubstringWithoutRepeatingCharacters.cpp) |
+
+</details>
+
 ---
 
 # 📈 Progress
@@ -116,11 +129,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███░░░░░░░░░░░░░░░░ 7/45
+███░░░░░░░░░░░░░░░░ 8/45
 
 Problems Solved
 
-██░░░░░░░░░░░░░░░░░ 21/191
+██░░░░░░░░░░░░░░░░░ 24/191
 ```
 
 ---
