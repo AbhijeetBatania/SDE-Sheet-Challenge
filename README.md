@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **8 / 45** |
-| 💻 Problems Solved | **24 / 191** |
+| 📅 Days Completed | **9 / 45** |
+| 💻 Problems Solved | **27 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -42,7 +42,7 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 # 📅 Daily Progress
 
 <details open>
-<summary><strong>Week 1 (Days 1 to 7)</strong></summary>
+<summary><strong>📁 Week 1 (Days 1 to 7)</strong></summary>
 
 ### ✅ Day 1 – Arrays I
 
@@ -110,7 +110,7 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 </details>
 
 <details open>
-<summary><strong>Week 2 (Days 8 to 14)</strong></summary>
+<summary><strong>📁 Week 2 (Days 8 to 14)</strong></summary>
 
 ### ✅ Day 8 – Arrays IV
 
@@ -119,6 +119,14 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Longest Subarray with Sum K | [Question](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | [Solution](./Days/Day08/LongestSubarrayWithSumK.cpp) |
 | Count Subarrays with Given XOR | [Question](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) | [Solution](./Days/Day08/CountSubarraysWithXOR.cpp) |
 | Longest Substring Without Repeating Characters | [Question](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./Days/Day08/LongestSubstringWithoutRepeatingCharacters.cpp) |
+
+### ✅ Day 9 – Linked List I
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Reverse Linked List | [Question](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./Days/Day09/ReverseLinkedList.cpp) |
+| Middle of the Linked List | [Question](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./Days/Day09/MiddleOfTheLinkedList.cpp) |
+| Merge Two Sorted Lists | [Question](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./Days/Day09/MergeTwoSortedLists.cpp) |
 
 </details>
 
@@ -129,11 +137,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███░░░░░░░░░░░░░░░░ 8/45
+███░░░░░░░░░░░░░░░░ 9/45
 
 Problems Solved
 
-██░░░░░░░░░░░░░░░░░ 24/191
+██░░░░░░░░░░░░░░░░░ 27/191
 ```
 
 ---
