@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **10 / 45** |
-| 💻 Problems Solved | **30 / 191** |
+| 📅 Days Completed | **11 / 45** |
+| 💻 Problems Solved | **33 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -136,6 +136,14 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Add Two Numbers | [Question](https://leetcode.com/problems/add-two-numbers/) | [Solution](./Days/Day10/AddTwoNumbers.cpp) |
 | Delete Node in a Linked List | [Question](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./Days/Day10/DeleteNodeInLinkedList.cpp) |
 
+### ✅ Day 11 – Linked List II
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Intersection of Two Linked Lists | [Question](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution](./Days/Day11/IntersectionOfTwoLinkedLists.cpp) |
+| Linked List Cycle | [Question](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./Days/Day11/LinkedListCycle.cpp) |
+| Reverse Nodes in k-Group | [Question](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution](./Days/Day11/ReverseNodesInKGroup.cpp) |
+
 </details>
 
 ---
@@ -145,11 +153,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███░░░░░░░░░░░░░░░░ 10/45
+███░░░░░░░░░░░░░░░░ 11/45
 
 Problems Solved
 
-██░░░░░░░░░░░░░░░░░ 30/191
+██░░░░░░░░░░░░░░░░░ 33/191
 ```
 
 ---
