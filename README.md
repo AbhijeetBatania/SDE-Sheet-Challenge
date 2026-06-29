@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **9 / 45** |
-| 💻 Problems Solved | **27 / 191** |
+| 📅 Days Completed | **10 / 45** |
+| 💻 Problems Solved | **30 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -128,6 +128,14 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Middle of the Linked List | [Question](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./Days/Day09/MiddleOfTheLinkedList.cpp) |
 | Merge Two Sorted Lists | [Question](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./Days/Day09/MergeTwoSortedLists.cpp) |
 
+### ✅ Day 10 – Linked List I
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Remove Nth Node From End of List | [Question](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./Days/Day10/RemoveNthNodeFromEnd.cpp) |
+| Add Two Numbers | [Question](https://leetcode.com/problems/add-two-numbers/) | [Solution](./Days/Day10/AddTwoNumbers.cpp) |
+| Delete Node in a Linked List | [Question](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./Days/Day10/DeleteNodeInLinkedList.cpp) |
+
 </details>
 
 ---
@@ -137,11 +145,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███░░░░░░░░░░░░░░░░ 9/45
+███░░░░░░░░░░░░░░░░ 10/45
 
 Problems Solved
 
-██░░░░░░░░░░░░░░░░░ 27/191
+██░░░░░░░░░░░░░░░░░ 30/191
 ```
 
 ---
