@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **11 / 45** |
-| 💻 Problems Solved | **33 / 191** |
+| 📅 Days Completed | **12 / 45** |
+| 💻 Problems Solved | **36 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -144,6 +144,14 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Linked List Cycle | [Question](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./Days/Day11/LinkedListCycle.cpp) |
 | Reverse Nodes in k-Group | [Question](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution](./Days/Day11/ReverseNodesInKGroup.cpp) |
 
+### ✅ Day 12 – Linked List II
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Palindrome Linked List | [Question](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./Days/Day12/PalindromeLinkedList.cpp) |
+| Linked List Cycle II | [Question](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution](./Days/Day12/LinkedListCycleII.cpp) |
+| Flattening a Linked List | [Question](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | [Solution](./Days/Day12/FlatteningALinkedList.cpp) |
+
 </details>
 
 ---
@@ -153,11 +161,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███░░░░░░░░░░░░░░░░ 11/45
+███░░░░░░░░░░░░░░░░ 12/45
 
 Problems Solved
 
-██░░░░░░░░░░░░░░░░░ 33/191
+██░░░░░░░░░░░░░░░░░ 36/191
 ```
 
 ---
