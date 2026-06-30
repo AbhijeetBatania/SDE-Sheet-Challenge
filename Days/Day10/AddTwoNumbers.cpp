@@ -5,13 +5,6 @@ Link: https://leetcode.com/problems/add-two-numbers/
 =========================================================
 */
 
-/*
-=========================================================
-Problem: Add Two Numbers
-Link: https://leetcode.com/problems/add-two-numbers/
-=========================================================
-*/
-
 // ---------------------------
 // Method 1 : Your Original Approach
 // Time Complexity: O(max(M, N))
