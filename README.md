@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **14 / 45** |
-| 💻 Problems Solved | **42 / 191** |
+| 📅 Days Completed | **15 / 45** |
+| 💻 Problems Solved | **46 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -170,6 +170,20 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 </details>
 
+<details open>
+<summary><strong>📁 Week 3 (Days 15 to 21)</strong></summary>
+
+### ✅ Day 15 – Greedy Algorithms
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Activity Selection | [Question](https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1) | [Solution](./Days/Day15/ActivitySelection.cpp) |
+| Minimum Platforms | [Question](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | [Solution](./Days/Day15/MinimumPlatforms.cpp) |
+| Job Sequencing Problem | [Question](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) | [Solution](./Days/Day15/JobSequencing.cpp) |
+| Fractional Knapsack | [Question](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | [Solution](./Days/Day15/FractionalKnapsack.cpp) |
+
+</details>
+
 ---
 
 # 📈 Progress
@@ -177,11 +191,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███░░░░░░░░░░░░░░░░ 14/45
+███░░░░░░░░░░░░░░░░ 15/45
 
 Problems Solved
 
-██░░░░░░░░░░░░░░░░░ 42/191
+██░░░░░░░░░░░░░░░░░ 46/191
 ```
 
 ---
