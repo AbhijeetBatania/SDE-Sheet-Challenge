@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **15 / 45** |
-| 💻 Problems Solved | **46 / 191** |
+| 📅 Days Completed | **16 / 45** |
+| 💻 Problems Solved | **50 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -182,6 +182,15 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Job Sequencing Problem | [Question](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) | [Solution](./Days/Day15/JobSequencing.cpp) |
 | Fractional Knapsack | [Question](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | [Solution](./Days/Day15/FractionalKnapsack.cpp) |
 
+### ✅ Day 16 – Recursion, Backtracking & Greedy
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Coin Change | [Question](https://leetcode.com/problems/coin-change/) | [Solution](./Days/Day16/CoinChange.cpp) |
+| Assign Cookies | [Question](https://leetcode.com/problems/assign-cookies/) | [Solution](./Days/Day16/AssignCookies.cpp) |
+| Subset Sum Problem | [Question](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | [Solution](./Days/Day16/SubsetSumProblem.cpp) |
+| Subsets II | [Question](https://leetcode.com/problems/subsets-ii/) | [Solution](./Days/Day16/SubsetsII.cpp) |
+
 </details>
 
 ---
@@ -191,11 +200,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███░░░░░░░░░░░░░░░░ 15/45
+███░░░░░░░░░░░░░░░░ 16/45
 
 Problems Solved
 
-██░░░░░░░░░░░░░░░░░ 46/191
+██░░░░░░░░░░░░░░░░░ 50/191
 ```
 
 ---
