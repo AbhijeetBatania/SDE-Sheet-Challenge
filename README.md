@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **16 / 45** |
-| 💻 Problems Solved | **50 / 191** |
+| 📅 Days Completed | **17 / 45** |
+| 💻 Problems Solved | **54 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -191,6 +191,15 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Subset Sum Problem | [Question](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | [Solution](./Days/Day16/SubsetSumProblem.cpp) |
 | Subsets II | [Question](https://leetcode.com/problems/subsets-ii/) | [Solution](./Days/Day16/SubsetsII.cpp) |
 
+### ✅ Day 17 – Recursion & Backtracking
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Combination Sum | [Question](https://leetcode.com/problems/combination-sum/) | [Solution](./Days/Day17/CombinationSum.cpp) |
+| Combination Sum II | [Question](https://leetcode.com/problems/combination-sum-ii/) | [Solution](./Days/Day17/CombinationSumII.cpp) |
+| Palindrome Partitioning | [Question](https://leetcode.com/problems/palindrome-partitioning/) | [Solution](./Days/Day17/PalindromePartitioning.cpp) |
+| Permutation Sequence | [Question](https://leetcode.com/problems/permutation-sequence/) | [Solution](./Days/Day17/PermutationSequence.cpp) |
+
 </details>
 
 ---
@@ -200,11 +209,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███░░░░░░░░░░░░░░░░ 16/45
+███░░░░░░░░░░░░░░░░ 17/45
 
 Problems Solved
 
-██░░░░░░░░░░░░░░░░░ 50/191
+██░░░░░░░░░░░░░░░░░ 54/191
 ```
 
 ---
