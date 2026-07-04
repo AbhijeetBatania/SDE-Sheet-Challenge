@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **17 / 45** |
-| 💻 Problems Solved | **54 / 191** |
+| 📅 Days Completed | **18 / 45** |
+| 💻 Problems Solved | **57 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -200,6 +200,14 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Palindrome Partitioning | [Question](https://leetcode.com/problems/palindrome-partitioning/) | [Solution](./Days/Day17/PalindromePartitioning.cpp) |
 | Permutation Sequence | [Question](https://leetcode.com/problems/permutation-sequence/) | [Solution](./Days/Day17/PermutationSequence.cpp) |
 
+### ✅ Day 18 – Backtracking II
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Permutations | [Question](https://leetcode.com/problems/permutations/) | [Solution](./Days/Day18/Permutations.cpp) |
+| N-Queens | [Question](https://leetcode.com/problems/n-queens/) | [Solution](./Days/Day18/NQueens.cpp) |
+| Sudoku Solver | [Question](https://leetcode.com/problems/sudoku-solver/) | [Solution](./Days/Day18/SudokuSolver.cpp) |
+
 </details>
 
 ---
@@ -209,11 +217,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███░░░░░░░░░░░░░░░░ 17/45
+███░░░░░░░░░░░░░░░░ 18/45
 
 Problems Solved
 
-██░░░░░░░░░░░░░░░░░ 54/191
+██░░░░░░░░░░░░░░░░░ 57/191
 ```
 
 ---
