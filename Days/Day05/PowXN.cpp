@@ -39,3 +39,31 @@ public:
         return solve(x, (long)n);
     }
 };
+
+
+// Method-2 : Binary Exponentiation (Iterative)
+// Time Complexity: O(log N)
+// Space Complexity: O(1)
+
+class Solution {
+public:
+    double myPow(double x, int n) {
+        long long N = n;   // convert to long long to avoid overflow
+
+        if (N < 0) {
+            x = 1 / x;
+            N = -N;
+        }
+
+        double ans = 1.0;
+
+        while (N > 0) {
+            if (N & 1) {
+                ans *= x;
+            }
+            x *= x;
+            N >>= 1;
+        }
+        return ans;
+    }
+};
