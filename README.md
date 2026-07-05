@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **18 / 45** |
-| 💻 Problems Solved | **57 / 191** |
+| 📅 Days Completed | **19 / 45** |
+| 💻 Problems Solved | **60 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -208,6 +208,14 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | N-Queens | [Question](https://leetcode.com/problems/n-queens/) | [Solution](./Days/Day18/NQueens.cpp) |
 | Sudoku Solver | [Question](https://leetcode.com/problems/sudoku-solver/) | [Solution](./Days/Day18/SudokuSolver.cpp) |
 
+### ✅ Day 19 – Backtracking III
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| M-Coloring Problem | [Question](https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1) | [Solution](./Days/Day19/MColoringProblem.cpp) |
+| Rat in a Maze | [Question](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | [Solution](./Days/Day19/RatInAMaze.cpp) |
+| Word Break | [Question](https://leetcode.com/problems/word-break/) | [Solution](./Days/Day19/WordBreak.cpp) |
+
 </details>
 
 ---
@@ -217,11 +225,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███░░░░░░░░░░░░░░░░ 18/45
+███████░░░░░░░░░░░░ 19/45
 
 Problems Solved
 
-██░░░░░░░░░░░░░░░░░ 57/191
+█████░░░░░░░░░░░░░░ 60/191
 ```
 
 ---
