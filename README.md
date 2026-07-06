@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **19 / 45** |
-| 💻 Problems Solved | **60 / 191** |
+| 📅 Days Completed | **20 / 45** |
+| 💻 Problems Solved | **64 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -216,6 +216,16 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Rat in a Maze | [Question](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | [Solution](./Days/Day19/RatInAMaze.cpp) |
 | Word Break | [Question](https://leetcode.com/problems/word-break/) | [Solution](./Days/Day19/WordBreak.cpp) |
 
+### ✅ Day 20 – Binary Search
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Find Nth Root of M | [Question](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) | [Solution](./Days/Day20/NthRoot.cpp) |
+| Median in a Row Wise Sorted Matrix | [Question](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) | [Solution](./Days/Day20/MedianInARowWiseSortedMatrix.cpp) |
+| Single Element in a Sorted Array | [Question](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution](./Days/Day20/SingleElementInASortedArray.cpp) |
+| Search in Rotated Sorted Array | [Question](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./Days/Day20/SearchInRotatedSortedArray.cpp) |
+| Search in Rotated Sorted Array II *(Extra)* | [Question](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](./Days/Day20/SearchInRotatedSortedArrayII.cpp) |
+
 </details>
 
 ---
@@ -225,11 +235,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███████░░░░░░░░░░░░ 19/45
+███████░░░░░░░░░░░░ 20/45
 
 Problems Solved
 
-█████░░░░░░░░░░░░░░ 60/191
+█████░░░░░░░░░░░░░░ 64/191
 ```
 
 ---
