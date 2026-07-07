@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **21 / 45** |
-| 💻 Problems Solved | **68 / 191** |
+| 📅 Days Completed | **22 / 45** |
+| 💻 Problems Solved | **71 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -235,6 +235,14 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Allocate Minimum Number of Pages | [Question](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | [Solution](./Days/Day21/AllocateMinimumPages.cpp) |
 | Aggressive Cows | [Question](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | [Solution](./Days/Day21/AggressiveCows.cpp) |
 
+### ✅ Day 22 – Heaps & Priority Queues (Part A)
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Max Heap Implementation | [Question](https://www.geeksforgeeks.org/problems/max-heap-implementation/1) | [Solution](./Days/Day22/MaxHeapImplementation.cpp) |
+| Kth Largest Element in an Array | [Question](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](./Days/Day22/KthLargestElement.cpp) |
+| Maximum Sum Combination | [Question](https://www.geeksforgeeks.org/problems/maximum-sum-combination/1) | [Solution](./Days/Day22/MaximumSumCombination.cpp) |
+
 </details>
 
 ---
@@ -244,11 +252,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███████░░░░░░░░░░░░ 21/45
+███████░░░░░░░░░░░░ 22/45
 
 Problems Solved
 
-█████░░░░░░░░░░░░░░ 68/191
+█████░░░░░░░░░░░░░░ 71/191
 ```
 
 ---
