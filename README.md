@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **22 / 45** |
-| 💻 Problems Solved | **71 / 191** |
+| 📅 Days Completed | **23 / 45** |
+| 💻 Problems Solved | **74 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -243,6 +243,14 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Kth Largest Element in an Array | [Question](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](./Days/Day22/KthLargestElement.cpp) |
 | Maximum Sum Combination | [Question](https://www.geeksforgeeks.org/problems/maximum-sum-combination/1) | [Solution](./Days/Day22/MaximumSumCombination.cpp) |
 
+### ✅ Day 23 – Heaps & Priority Queues (Part B)
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Find Median from Data Stream | [Question](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](./Days/Day23/FindMedianFromDataStream.cpp) |
+| Merge K Sorted Arrays | [Question](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) | [Solution](./Days/Day23/MergeKSortedArrays.cpp) |
+| Top K Frequent Elements | [Question](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./Days/Day23/TopKFrequentElements.cpp) |
+
 </details>
 
 ---
@@ -252,11 +260,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███████░░░░░░░░░░░░ 22/45
+███████░░░░░░░░░░░░ 23/45
 
 Problems Solved
 
-█████░░░░░░░░░░░░░░ 71/191
+█████░░░░░░░░░░░░░░ 74/191
 ```
 
 ---
