@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **20 / 45** |
-| 💻 Problems Solved | **64 / 191** |
+| 📅 Days Completed | **21 / 45** |
+| 💻 Problems Solved | **68 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -226,6 +226,15 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Search in Rotated Sorted Array | [Question](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./Days/Day20/SearchInRotatedSortedArray.cpp) |
 | Search in Rotated Sorted Array II *(Extra)* | [Question](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](./Days/Day20/SearchInRotatedSortedArrayII.cpp) |
 
+### ✅ Day 21 – Binary Search II
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Median of Two Sorted Arrays | [Question](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](./Days/Day21/MedianOfTwoSortedArrays.cpp) |
+| K-th Element of Two Sorted Arrays | [Question](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1) | [Solution](./Days/Day21/KthElementOfTwoSortedArrays.cpp) |
+| Allocate Minimum Number of Pages | [Question](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | [Solution](./Days/Day21/AllocateMinimumPages.cpp) |
+| Aggressive Cows | [Question](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | [Solution](./Days/Day21/AggressiveCows.cpp) |
+
 </details>
 
 ---
@@ -235,11 +244,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███████░░░░░░░░░░░░ 20/45
+███████░░░░░░░░░░░░ 21/45
 
 Problems Solved
 
-█████░░░░░░░░░░░░░░ 64/191
+█████░░░░░░░░░░░░░░ 68/191
 ```
 
 ---
