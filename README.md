@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **23 / 45** |
-| 💻 Problems Solved | **74 / 191** |
+| 📅 Days Completed | **24 / 45** |
+| 💻 Problems Solved | **78 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -251,6 +251,15 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Merge K Sorted Arrays | [Question](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) | [Solution](./Days/Day23/MergeKSortedArrays.cpp) |
 | Top K Frequent Elements | [Question](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./Days/Day23/TopKFrequentElements.cpp) |
 
+### ✅ Day 24 – Stack & Queue I
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Implement Stack using Array | [Question](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1) | [Solution](./Days/Day24/ImplementStackUsingArray.cpp) |
+| Implement Queue using Array | [Question](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1) | [Solution](./Days/Day24/ImplementQueueUsingArray.cpp) |
+| Implement Stack using Queues | [Question](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution](./Days/Day24/ImplementStackUsingQueues.cpp) |
+| Implement Queue using Stacks | [Question](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](./Days/Day24/ImplementQueueUsingStacks.cpp) |
+
 </details>
 
 ---
@@ -260,11 +269,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███████░░░░░░░░░░░░ 23/45
+███████░░░░░░░░░░░░ 24/45
 
 Problems Solved
 
-█████░░░░░░░░░░░░░░ 74/191
+█████░░░░░░░░░░░░░░ 78/191
 ```
 
 ---
