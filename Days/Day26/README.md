@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **25 / 45** |
-| 💻 Problems Solved | **81 / 191** |
+| 📅 Days Completed | **26 / 45** |
+| 💻 Problems Solved | **84 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -235,6 +235,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Allocate Minimum Number of Pages | [Question](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | [Solution](./Days/Day21/AllocateMinimumPages.cpp) |
 | Aggressive Cows | [Question](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | [Solution](./Days/Day21/AggressiveCows.cpp) |
 
+</details>
+
+<details open>
+<summary><strong>📁 Week 4 (Days 22 to 28)</strong></summary>
+
 ### ✅ Day 22 – Heaps & Priority Queues (Part A)
 
 | Problem | Question | Solution |
@@ -268,6 +273,14 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Next Greater Element I | [Question](https://leetcode.com/problems/next-greater-element-i/) | [Solution](./Days/Day25/NextGreaterElementI.cpp) |
 | Sort a Stack | [Question](https://www.geeksforgeeks.org/problems/sort-a-stack/1) | [Solution](./Days/Day25/SortAStack.cpp) |
 
+### ✅ Day 26 – Stack & Queue III
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Next Smaller Element | [Question](https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1) | [Solution](./Days/Day26/NextSmallerElement.cpp) |
+| LRU Cache | [Question](https://leetcode.com/problems/lru-cache/) | [Solution](./Days/Day26/LRUCache.cpp) |
+| LFU Cache | [Question](https://leetcode.com/problems/lfu-cache/) | [Solution](./Days/Day26/LFUCache.cpp) |
+
 </details>
 
 ---
@@ -277,11 +290,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███████░░░░░░░░░░░░ 25/45
+███████░░░░░░░░░░░░ 26/45
 
 Problems Solved
 
-█████░░░░░░░░░░░░░░ 81/191
+█████░░░░░░░░░░░░░░ 84/191
 ```
 
 ---
