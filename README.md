@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **24 / 45** |
-| 💻 Problems Solved | **78 / 191** |
+| 📅 Days Completed | **25 / 45** |
+| 💻 Problems Solved | **81 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -260,6 +260,14 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Implement Stack using Queues | [Question](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution](./Days/Day24/ImplementStackUsingQueues.cpp) |
 | Implement Queue using Stacks | [Question](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](./Days/Day24/ImplementQueueUsingStacks.cpp) |
 
+### ✅ Day 25 – Stack & Queue II
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Valid Parentheses | [Question](https://leetcode.com/problems/valid-parentheses/) | [Solution](./Days/Day25/ValidParentheses.cpp) |
+| Next Greater Element I | [Question](https://leetcode.com/problems/next-greater-element-i/) | [Solution](./Days/Day25/NextGreaterElementI.cpp) |
+| Sort a Stack | [Question](https://www.geeksforgeeks.org/problems/sort-a-stack/1) | [Solution](./Days/Day25/SortAStack.cpp) |
+
 </details>
 
 ---
@@ -269,11 +277,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███████░░░░░░░░░░░░ 24/45
+███████░░░░░░░░░░░░ 25/45
 
 Problems Solved
 
-█████░░░░░░░░░░░░░░ 78/191
+█████░░░░░░░░░░░░░░ 81/191
 ```
 
 ---
