@@ -5,8 +5,66 @@ Link: https://www.geeksforgeeks.org/problems/implement-queue-using-array/1
 =========================================================
 */
 
+class myQueue {   // Circular Queue
+    int *arr;
+    int front, rear;
+    int size;
+
+public:
+    myQueue(int n) {
+        size = n;
+        arr = new int[size];
+        front = -1;
+        rear = -1;
+    }
+
+    bool isEmpty() {
+        return front == -1;
+    }
+
+    bool isFull() {
+        return (rear + 1) % size == front;
+    }
+
+    void enqueue(int x) {
+        if (isFull()) return;
+
+        // First element insertion
+        if (front == -1)
+            front = 0;
+
+        rear = (rear + 1) % size;
+        arr[rear] = x;
+    }
+
+    void dequeue() {
+        if (isEmpty()) return;
+
+        // Removing last element
+        if (front == rear) {
+            front = rear = -1;
+        }
+        else {
+            front = (front + 1) % size;
+        }
+    }
+
+    int getFront() {
+        if (isEmpty()) return -1;
+
+        return arr[front];
+    }
+
+    int getRear() {
+        if (isEmpty()) return -1;
+
+        return arr[rear];
+    }
+};
+
+
 // ---------------------------
-// Method 1 : Using STL Queue
+// Method 2 : Using STL Queue
 // Time Complexity:
 // enqueue() -> O(1)
 // dequeue() -> O(1)
