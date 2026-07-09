@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **27 / 45** |
-| 💻 Problems Solved | **88 / 191** |
+| 📅 Days Completed | **28 / 45** |
+| 💻 Problems Solved | **91 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -290,6 +290,14 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Min Stack | [Question](https://leetcode.com/problems/min-stack/) | [Solution](./Days/Day27/MinStack.cpp) |
 | Rotting Oranges | [Question](https://leetcode.com/problems/rotting-oranges/) | [Solution](./Days/Day27/RottingOranges.cpp) |
 
+### ✅ Day 28 – Stack & Queue III
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Stock Span Problem | [Question](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1) | [Solution](./Days/Day28/StockSpanProblem.cpp) |
+| Maximum of Minimum for Every Window Size | [Question](https://www.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1) | [Solution](./Days/Day28/MaximumOfMinimumForEveryWindowSize.cpp) |
+| Celebrity Problem | [Question](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) | [Solution](./Days/Day28/CelebrityProblem.cpp) |
+
 </details>
 
 ---
@@ -299,11 +307,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███████░░░░░░░░░░░░ 27/45
+███████░░░░░░░░░░░░ 28/45
 
 Problems Solved
 
-█████░░░░░░░░░░░░░░ 88/191
+█████░░░░░░░░░░░░░░ 91/191
 ```
 
 ---
