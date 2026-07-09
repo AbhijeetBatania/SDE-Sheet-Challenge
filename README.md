@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **26 / 45** |
-| 💻 Problems Solved | **84 / 191** |
+| 📅 Days Completed | **27 / 45** |
+| 💻 Problems Solved | **88 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -281,6 +281,15 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | LRU Cache | [Question](https://leetcode.com/problems/lru-cache/) | [Solution](./Days/Day26/LRUCache.cpp) |
 | LFU Cache | [Question](https://leetcode.com/problems/lfu-cache/) | [Solution](./Days/Day26/LFUCache.cpp) |
 
+### ✅ Day 27 – Stack & Queue IV
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Largest Rectangle in Histogram | [Question](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution](./Days/Day27/LargestRectangleInHistogram.cpp) |
+| Sliding Window Maximum | [Question](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./Days/Day27/SlidingWindowMaximum.cpp) |
+| Min Stack | [Question](https://leetcode.com/problems/min-stack/) | [Solution](./Days/Day27/MinStack.cpp) |
+| Rotting Oranges | [Question](https://leetcode.com/problems/rotting-oranges/) | [Solution](./Days/Day27/RottingOranges.cpp) |
+
 </details>
 
 ---
@@ -290,11 +299,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███████░░░░░░░░░░░░ 26/45
+███████░░░░░░░░░░░░ 27/45
 
 Problems Solved
 
-█████░░░░░░░░░░░░░░ 84/191
+█████░░░░░░░░░░░░░░ 88/191
 ```
 
 ---
