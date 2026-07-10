@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **28 / 45** |
-| 💻 Problems Solved | **91 / 191** |
+| 📅 Days Completed | **29 / 45** |
+| 💻 Problems Solved | **94 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -298,6 +298,14 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Maximum of Minimum for Every Window Size | [Question](https://www.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1) | [Solution](./Days/Day28/MaximumOfMinimumForEveryWindowSize.cpp) |
 | Celebrity Problem | [Question](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) | [Solution](./Days/Day28/CelebrityProblem.cpp) |
 
+### ✅ Day 29 – Strings I
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Reverse Words in a String | [Question](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution](./Days/Day29/ReverseWordsInAString.cpp) |
+| Longest Palindromic Substring | [Question](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./Days/Day29/LongestPalindromicSubstring.cpp) |
+| Roman to Integer | [Question](https://leetcode.com/problems/roman-to-integer/) | [Solution](./Days/Day29/RomanToInteger.cpp) |
+
 </details>
 
 ---
@@ -307,11 +315,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███████░░░░░░░░░░░░ 28/45
+███████░░░░░░░░░░░░ 29/45
 
 Problems Solved
 
-█████░░░░░░░░░░░░░░ 91/191
+█████░░░░░░░░░░░░░░ 94/191
 ```
 
 ---
