@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **29 / 45** |
-| 💻 Problems Solved | **94 / 191** |
+| 📅 Days Completed | **30 / 45** |
+| 💻 Problems Solved | **97 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -298,6 +298,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Maximum of Minimum for Every Window Size | [Question](https://www.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1) | [Solution](./Days/Day28/MaximumOfMinimumForEveryWindowSize.cpp) |
 | Celebrity Problem | [Question](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) | [Solution](./Days/Day28/CelebrityProblem.cpp) |
 
+</details>
+
+<details open>
+<summary><strong>📁 Week 5 (Days 29 to 35)</strong></summary>
+
 ### ✅ Day 29 – Strings I
 
 | Problem | Question | Solution |
@@ -305,6 +310,14 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Reverse Words in a String | [Question](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution](./Days/Day29/ReverseWordsInAString.cpp) |
 | Longest Palindromic Substring | [Question](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./Days/Day29/LongestPalindromicSubstring.cpp) |
 | Roman to Integer | [Question](https://leetcode.com/problems/roman-to-integer/) | [Solution](./Days/Day29/RomanToInteger.cpp) |
+
+### ✅ Day 30 – Strings II
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| String to Integer (atoi) | [Question](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](./Days/Day30/StringToIntegerATOI.cpp) |
+| Longest Common Prefix | [Question](https://leetcode.com/problems/longest-common-prefix/) | [Solution](./Days/Day30/LongestCommonPrefix.cpp) |
+| Repeated String Match | [Question](https://leetcode.com/problems/repeated-string-match/) | [Solution](./Days/Day30/RepeatedStringMatch.cpp) |
 
 </details>
 
@@ -315,11 +328,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-███████░░░░░░░░░░░░ 29/45
+█████████████░░░░░░ 30/45
 
 Problems Solved
 
-█████░░░░░░░░░░░░░░ 94/191
+██████████░░░░░░░░░ 97/191
 ```
 
 ---
