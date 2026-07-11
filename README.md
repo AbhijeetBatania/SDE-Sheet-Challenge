@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **30 / 45** |
-| 💻 Problems Solved | **97 / 191** |
+| 📅 Days Completed | **31 / 45** |
+| 💻 Problems Solved | **100 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -319,6 +319,14 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Longest Common Prefix | [Question](https://leetcode.com/problems/longest-common-prefix/) | [Solution](./Days/Day30/LongestCommonPrefix.cpp) |
 | Repeated String Match | [Question](https://leetcode.com/problems/repeated-string-match/) | [Solution](./Days/Day30/RepeatedStringMatch.cpp) |
 
+### ✅ Day 31 – Strings III
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Search Pattern (KMP) | [Question](https://www.geeksforgeeks.org/problems/search-pattern0205/1) | [Solution](./Days/Day31/SearchPatternKMP.cpp) |
+| Find the Index of the First Occurrence in a String | [Question](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](./Days/Day31/FindFirstOccurrenceInString.cpp) |
+| Minimum Insertion Steps to Make a String Palindrome | [Question](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [Solution](./Days/Day31/MinimumInsertionStepsToMakeAStringPalindrome.cpp) |
+
 </details>
 
 ---
@@ -328,11 +336,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-█████████████░░░░░░ 30/45
+█████████████░░░░░░ 31/45
 
 Problems Solved
 
-██████████░░░░░░░░░ 97/191
+██████████░░░░░░░░░ 100/191
 ```
 
 ---
