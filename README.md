@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **32 / 45** |
-| 💻 Problems Solved | **103 / 191** |
+| 📅 Days Completed | **33 / 45** |
+| 💻 Problems Solved | **107 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -335,6 +335,15 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Count and Say | [Question](https://leetcode.com/problems/count-and-say/) | [Solution](./Days/Day32/CountAndSay.cpp) |
 | Compare Version Numbers | [Question](https://leetcode.com/problems/compare-version-numbers/) | [Solution](./Days/Day32/CompareVersionNumbers.cpp) |
 
+### ✅ Day 33 – Binary Tree Traversals
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Binary Tree Inorder Traversal | [Question](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./Days/Day33/BinaryTreeInorderTraversal.cpp) |
+| Binary Tree Preorder Traversal | [Question](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution](./Days/Day33/BinaryTreePreorderTraversal.cpp) |
+| Binary Tree Postorder Traversal | [Question](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Solution](./Days/Day33/BinaryTreePostorderTraversal.cpp) |
+| Morris Inorder Traversal | [Question](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./Days/Day33/MorrisInorderTraversal.cpp) |
+
 </details>
 
 ---
@@ -344,11 +353,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-█████████████░░░░░░ 32/45
+█████████████░░░░░░ 33/45
 
 Problems Solved
 
-██████████░░░░░░░░░ 103/191
+██████████░░░░░░░░░ 107/191
 ```
 
 ---
