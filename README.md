@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **33 / 45** |
-| 💻 Problems Solved | **107 / 191** |
+| 📅 Days Completed | **34 / 45** |
+| 💻 Problems Solved | **111 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -344,6 +344,15 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Binary Tree Postorder Traversal | [Question](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Solution](./Days/Day33/BinaryTreePostorderTraversal.cpp) |
 | Morris Inorder Traversal | [Question](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./Days/Day33/MorrisInorderTraversal.cpp) |
 
+### ✅ Day 34 – Binary Tree Views
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Morris Preorder Traversal | [Question](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution](./Days/Day33/BinaryTreePreorderTraversal.cpp) |
+| Binary Tree Right Side View | [Question](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution](./Days/Day34/BinaryTreeRightSideView.cpp) |
+| Top View of Binary Tree | [Question](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | [Solution](./Days/Day34/TopViewOfBinaryTree.cpp) |
+| Bottom View of Binary Tree | [Question](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | [Solution](./Days/Day34/BottomViewOfBinaryTree.cpp) |
+
 </details>
 
 ---
@@ -353,11 +362,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-█████████████░░░░░░ 33/45
+█████████████░░░░░░ 34/45
 
 Problems Solved
 
-██████████░░░░░░░░░ 107/191
+██████████░░░░░░░░░ 111/191
 ```
 
 ---
