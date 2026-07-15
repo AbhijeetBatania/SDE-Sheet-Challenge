@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **34 / 45** |
-| 💻 Problems Solved | **111 / 191** |
+| 📅 Days Completed | **35 / 45** |
+| 💻 Problems Solved | **115 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -353,6 +353,22 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Top View of Binary Tree | [Question](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | [Solution](./Days/Day34/TopViewOfBinaryTree.cpp) |
 | Bottom View of Binary Tree | [Question](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | [Solution](./Days/Day34/BottomViewOfBinaryTree.cpp) |
 
+### ✅ Day 34 – Binary Tree II
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Tree Traversal (Inorder, Preorder & Postorder in One Traversal) | [Question](https://www.naukri.com/code360/problems/tree-traversal_981269) | [Solution](./Days/Day34/TreeTraversal.cpp) |
+| Vertical Order Traversal | [Question](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Solution](./Days/Day34/VerticalOrderTraversal.cpp) |
+| Binary Tree Paths | [Question](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./Days/Day34/BinaryTreePaths.cpp) |
+| Maximum Width of Binary Tree | [Question](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Solution](./Days/Day34/MaximumWidthOfBinaryTree.cpp) |
+
+</details>
+
+<details open>
+<summary><strong>📁 Week 6 (Days 36 to 42)</strong></summary>
+
+
+
 </details>
 
 ---
@@ -362,11 +378,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-█████████████░░░░░░ 34/45
+█████████████░░░░░░ 35/45
 
 Problems Solved
 
-██████████░░░░░░░░░ 111/191
+██████████░░░░░░░░░ 115/191
 ```
 
 ---
