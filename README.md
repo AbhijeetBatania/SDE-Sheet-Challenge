@@ -353,14 +353,14 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Top View of Binary Tree | [Question](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | [Solution](./Days/Day34/TopViewOfBinaryTree.cpp) |
 | Bottom View of Binary Tree | [Question](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | [Solution](./Days/Day34/BottomViewOfBinaryTree.cpp) |
 
-### ✅ Day 34 – Binary Tree II
+### ✅ Day 35 – Binary Tree III
 
 | Problem | Question | Solution |
 |---------|----------|----------|
-| Tree Traversal (Inorder, Preorder & Postorder in One Traversal) | [Question](https://www.naukri.com/code360/problems/tree-traversal_981269) | [Solution](./Days/Day34/TreeTraversal.cpp) |
-| Vertical Order Traversal | [Question](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Solution](./Days/Day34/VerticalOrderTraversal.cpp) |
-| Binary Tree Paths | [Question](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./Days/Day34/BinaryTreePaths.cpp) |
-| Maximum Width of Binary Tree | [Question](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Solution](./Days/Day34/MaximumWidthOfBinaryTree.cpp) |
+| Tree Traversal (Inorder, Preorder & Postorder in One Traversal) | [Question](https://www.naukri.com/code360/problems/tree-traversal_981269) | [Solution](./Days/Day35/TreeTraversal.cpp) |
+| Vertical Order Traversal | [Question](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Solution](./Days/Day35/VerticalOrderTraversal.cpp) |
+| Binary Tree Paths | [Question](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./Days/Day35/BinaryTreePaths.cpp) |
+| Maximum Width of Binary Tree | [Question](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Solution](./Days/Day35/MaximumWidthOfBinaryTree.cpp) |
 
 </details>
 
