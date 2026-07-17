@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **36 / 45** |
-| 💻 Problems Solved | **119 / 191** |
+| 📅 Days Completed | **37 / 45** |
+| 💻 Problems Solved | **123 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -367,7 +367,7 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 <details open>
 <summary><strong>📁 Week 6 (Days 36 to 42)</strong></summary>
 
-### ✅ Day 36 – Binary Tree III
+### ✅ Day 36 – Binary Tree IV
 
 | Problem | Question | Solution |
 |---------|----------|----------|
@@ -375,6 +375,15 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Maximum Depth of Binary Tree | [Question](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./Days/Day36/MaximumDepthOfBinaryTree.cpp) |
 | Diameter of Binary Tree | [Question](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution](./Days/Day36/DiameterOfBinaryTree.cpp) |
 | Balanced Binary Tree | [Question](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](./Days/Day36/BalancedBinaryTree.cpp) |
+
+### ✅ Day 37 – Binary Tree V
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Lowest Common Ancestor of a Binary Tree | [Question](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Solution](./Days/Day37/LowestCommonAncestor.cpp) |
+| Same Tree | [Question](https://leetcode.com/problems/same-tree/) | [Solution](./Days/Day37/SameTree.cpp) |
+| Binary Tree Zigzag Level Order Traversal | [Question](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](./Days/Day37/BinaryTreeZigzagLevelOrderTraversal.cpp) |
+| Boundary Traversal of Binary Tree | [Question](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | [Solution](./Days/Day37/BoundaryTraversal.cpp) |
 
 </details>
 
@@ -385,11 +394,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-█████████████░░░░░░ 36/45
+█████████████░░░░░░ 37/45
 
 Problems Solved
 
-██████████░░░░░░░░░ 119/191
+██████████░░░░░░░░░ 123/191
 ```
 
 ---
