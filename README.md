@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **37 / 45** |
-| 💻 Problems Solved | **123 / 191** |
+| 📅 Days Completed | **38 / 45** |
+| 💻 Problems Solved | **126 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -385,6 +385,14 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Binary Tree Zigzag Level Order Traversal | [Question](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](./Days/Day37/BinaryTreeZigzagLevelOrderTraversal.cpp) |
 | Boundary Traversal of Binary Tree | [Question](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | [Solution](./Days/Day37/BoundaryTraversal.cpp) |
 
+### ✅ Day 38 – Binary Tree VI
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Binary Tree Maximum Path Sum | [Question](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](./Days/Day38/BinaryTreeMaximumPathSum.cpp) |
+| Construct Binary Tree from Preorder and Inorder Traversal | [Question](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](./Days/Day38/ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |
+| Construct Binary Tree from Inorder and Postorder Traversal | [Question](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solution](./Days/Day38/ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp) |
+
 </details>
 
 ---
@@ -394,11 +402,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-█████████████░░░░░░ 37/45
+█████████████░░░░░░ 38/45
 
 Problems Solved
 
-██████████░░░░░░░░░ 123/191
+██████████░░░░░░░░░ 126/191
 ```
 
 ---
