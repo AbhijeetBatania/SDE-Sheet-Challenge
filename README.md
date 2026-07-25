@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **38 / 45** |
-| 💻 Problems Solved | **126 / 191** |
+| 📅 Days Completed | **39 / 45** |
+| 💻 Problems Solved | **129 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -393,6 +393,14 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Construct Binary Tree from Preorder and Inorder Traversal | [Question](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](./Days/Day38/ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |
 | Construct Binary Tree from Inorder and Postorder Traversal | [Question](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solution](./Days/Day38/ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp) |
 
+### ✅ Day 39 – Binary Tree VII
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Symmetric Tree | [Question](https://leetcode.com/problems/symmetric-tree/) | [Solution](./Days/Day39/SymmetricTree.cpp) |
+| Flatten Binary Tree to Linked List | [Question](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution](./Days/Day39/FlattenBinaryTreeToLinkedList.cpp) |
+| Children Sum Property | [Question](https://www.geeksforgeeks.org/problems/children-sum-parent/1) | [Solution](./Days/Day39/ChildrenSumProperty.cpp) |
+
 </details>
 
 ---
@@ -402,11 +410,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-█████████████░░░░░░ 38/45
+█████████████░░░░░░ 39/45
 
 Problems Solved
 
-██████████░░░░░░░░░ 126/191
+██████████░░░░░░░░░ 129/191
 ```
 
 ---
