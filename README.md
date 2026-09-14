@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **39 / 45** |
-| 💻 Problems Solved | **129 / 191** |
+| 📅 Days Completed | **40 / 45** |
+| 💻 Problems Solved | **132 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -401,6 +401,14 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Flatten Binary Tree to Linked List | [Question](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution](./Days/Day39/FlattenBinaryTreeToLinkedList.cpp) |
 | Children Sum Property | [Question](https://www.geeksforgeeks.org/problems/children-sum-parent/1) | [Solution](./Days/Day39/ChildrenSumProperty.cpp) |
 
+### ✅ Day 40 – Binary Search Tree I
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Search in a Binary Search Tree | [Question](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](./Days/Day40/SearchInBinarySearchTree.cpp) |
+| Populating Next Right Pointers in Each Node | [Question](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](./Days/Day40/PopulatingNextRightPointers.cpp) |
+| Convert Sorted Array to Binary Search Tree | [Question](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](./Days/Day40/ConvertSortedArrayToBST.cpp) |
+
 </details>
 
 ---
@@ -410,11 +418,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-█████████████░░░░░░ 39/45
+█████████████░░░░░░ 40/45
 
 Problems Solved
 
-██████████░░░░░░░░░ 129/191
+██████████░░░░░░░░░ 132/191
 ```
 
 ---
