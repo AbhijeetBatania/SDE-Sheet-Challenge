@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **40 / 45** |
-| 💻 Problems Solved | **132 / 191** |
+| 📅 Days Completed | **41 / 45** |
+| 💻 Problems Solved | **136 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -409,6 +409,15 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Populating Next Right Pointers in Each Node | [Question](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](./Days/Day40/PopulatingNextRightPointers.cpp) |
 | Convert Sorted Array to Binary Search Tree | [Question](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](./Days/Day40/ConvertSortedArrayToBST.cpp) |
 
+### ✅ Day 41 – Binary Search Tree II
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Construct Binary Search Tree from Preorder Traversal | [Question](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Solution](./Days/Day41/ConstructBSTFromPreorder.cpp) |
+| Validate Binary Search Tree | [Question](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](./Days/Day41/ValidateBST.cpp) |
+| Lowest Common Ancestor of a Binary Search Tree | [Question](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./Days/Day41/LowestCommonAncestorBST.cpp) |
+| Predecessor and Successor | [Question](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | [Solution](./Days/Day41/PredecessorAndSuccessor.cpp) |
+
 </details>
 
 ---
@@ -418,11 +427,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-█████████████░░░░░░ 40/45
+█████████████░░░░░░ 41/45
 
 Problems Solved
 
-██████████░░░░░░░░░ 132/191
+██████████░░░░░░░░░ 136/191
 ```
 
 ---
