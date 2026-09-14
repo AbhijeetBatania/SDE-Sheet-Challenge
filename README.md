@@ -32,8 +32,8 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 
 | Metric | Progress |
 |---------|----------|
-| 📅 Days Completed | **41 / 45** |
-| 💻 Problems Solved | **136 / 191** |
+| 📅 Days Completed | **42 / 45** |
+| 💻 Problems Solved | **140 / 191** |
 | 🚀 Language | **C++** |
 | 📈 Status | 🟢 In Progress |
 
@@ -418,6 +418,15 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 | Lowest Common Ancestor of a Binary Search Tree | [Question](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./Days/Day41/LowestCommonAncestorBST.cpp) |
 | Predecessor and Successor | [Question](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | [Solution](./Days/Day41/PredecessorAndSuccessor.cpp) |
 
+### ✅ Day 42 – Binary Search Tree III
+
+| Problem | Question | Solution |
+|---------|----------|----------|
+| Floor in BST | [Question](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1) | [Solution](./Days/Day42/FloorInBST.cpp) |
+| Ceil in BST | [Question](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | [Solution](./Days/Day42/CeilInBST.cpp) |
+| Kth Smallest Element in a BST | [Question](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](./Days/Day42/KthSmallestElementInBST.cpp) |
+| Kth Largest Element in BST | [Question](https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1/) | [Solution](./Days/Day42/KthLargestElementInBST.cpp) |
+
 </details>
 
 ---
@@ -427,11 +436,11 @@ The goal of this challenge is to strengthen my understanding of **Data Structure
 ```text
 Days Completed
 
-█████████████░░░░░░ 41/45
+█████████████░░░░░░ 42/45
 
 Problems Solved
 
-██████████░░░░░░░░░ 136/191
+██████████░░░░░░░░░ 140/191
 ```
 
 ---
